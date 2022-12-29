@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbrega10
-- 👀 I’m interested in Python/Go language and DevOps
-- 🌱 I’m currently learning Go Lang and DevOps
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Go/C++/Rust
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Go projects
 - 📫 How to reach me : by mail or message
 
 <!---
