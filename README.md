@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbrega10
-- 👀 I’m interested in Go/C++/Rust
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Go projects
+- 👀 I’m interested in Rust/C/C++
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Rust projects
 - 📫 How to reach me : by mail or message
 
 <!---
